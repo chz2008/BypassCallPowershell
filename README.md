@@ -1,0 +1,2 @@
+# BypassCallPowershell
+bypass某数字和火绒调用powershell
